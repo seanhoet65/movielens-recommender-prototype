@@ -1,0 +1,11 @@
+[theme]
+base = "dark"
+
+# Letterboxd-inspired dark cinematic palette
+primaryColor        = "#40BCF4"   # Letterboxd blue — buttons, sliders, links
+backgroundColor     = "#0E1117"   # Deep near-black — main canvas
+secondaryBackgroundColor = "#161B22"  # Slightly lighter — sidebar, cards, expanders
+textColor           = "#E8E8E8"   # Off-white — body text
+
+[server]
+headless = true

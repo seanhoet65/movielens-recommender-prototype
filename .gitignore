@@ -1,0 +1,21 @@
+# Build / OS artifacts
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+.venv/
+venv/
+*.egg-info/
+
+# Streamlit secrets (never commit real keys)
+.streamlit/secrets.toml
+
+# Internal dev / planning docs
+OPUS_BRIEF.md
+OPUS_BRIEF_V2.md
+OPUS_DONE.md
+OPUS_DONE_V2.md
+COWORK_HANDOFF.md
+CLAUDE_CODE_PROMPT.md
+CLAUDE_CODE_DEPLOY_PROMPTS.md
+_TEMP_PROMPTS/
