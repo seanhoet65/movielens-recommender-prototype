@@ -1,5 +1,11 @@
 # MovieLens Recommender Prototype
 
+### Live demo: [movielens-recommender-prototype.streamlit.app](http://movielens-recommender-prototype.streamlit.app/)
+
+> GitHub repo: [github.com/seanhoet65/movielens-recommender-prototype](https://github.com/seanhoet65/movielens-recommender-prototype)
+
+---
+
 A web app that recommends movies to users based on their past ratings. Built as an individual project for the Recommender Systems course at ESADE MiBA.
 
 ## What it does

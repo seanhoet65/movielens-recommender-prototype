@@ -1,0 +1,7 @@
+LIVE PROTOTYPE
+--------------
+URL: http://movielens-recommender-prototype.streamlit.app/
+
+GITHUB REPOSITORY
+-----------------
+URL: https://github.com/seanhoet65/movielens-recommender-prototype
