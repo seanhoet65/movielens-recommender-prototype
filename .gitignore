@@ -10,6 +10,10 @@ venv/
 # Streamlit secrets (never commit real keys)
 .streamlit/secrets.toml
 
+# Redundant archive — DATA/raw/ already holds these CSVs extracted,
+# and the app reads them from there at runtime.
+DATA/*.zip
+
 # Internal dev / planning docs
 OPUS_BRIEF.md
 OPUS_BRIEF_V2.md
